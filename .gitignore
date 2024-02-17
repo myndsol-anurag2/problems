@@ -1,0 +1,61 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment
+venv/
+.env
+idp_env/
+
+# Dependencies
+lib/
+lib64/
+bin/
+include/
+*.egg
+*.egg-info/
+dist/
+build/
+downloads/
+*.dist-info/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+develop-eggs/
+.installed.cfg
+*.egg-link
+
+# Logs
+*.log
+*.log.*
+logs/
+log.txt
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Python files
+*.pyc
+
+# Database files
+*.db
+
+# Compiled C extensions
+*.so
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
